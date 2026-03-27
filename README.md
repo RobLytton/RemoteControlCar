@@ -9,7 +9,9 @@ The 3 of buttons on the controller are for safety mode, the horn (buzzer), and t
 The light sensor turns on the headlights in dark enviornments
 
 Schematic for the controller:
+<img width="1818" height="900" alt="image" src="https://github.com/user-attachments/assets/3a6cab68-fbc3-4cf2-aef5-26fed3141cac" />
 
 
 Schematic for the car: 
+<img width="1369" height="693" alt="image" src="https://github.com/user-attachments/assets/50715a3f-3c34-4a00-8f89-5b441abd569e" />
 
