@@ -2,15 +2,15 @@
 #include <SPI.h>
 int x1 = A3;
 int y1 = A5;
-int s1 = 7;
+
 int x2 = A2;
 int y2 = A4;
-int s2 = 2;
+
 int b1 = 4;
 int b2 = 6;
 int b3 = 8;
 int b4 = 10;
-int l = A0;
+int l = A5;
 
 RH_ASK driver;
 
@@ -19,10 +19,9 @@ boolean action[4] = {0,0,0,0};
 void setup() {
     pinMode(x1, INPUT);
     pinMode(y1, INPUT);
-    pinMode(s1, INPUT);
+  
     pinMode(x2, INPUT);
     pinMode(y2, INPUT);
-    pinMode(s2, INPUT);
     pinMode(b1, INPUT);
     pinMode(b2, INPUT);
     pinMode(b3, INPUT);
