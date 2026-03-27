@@ -6,9 +6,9 @@ int y1 = A5;
 int x2 = A2;
 int y2 = A4;
 
-int b1 = 4;
-int b2 = 6;
-int b3 = 8;
+int b1 = 7;
+int b2 = 8;
+int b3 = 9;
 int b4 = 10;
 int l = A5;
 
